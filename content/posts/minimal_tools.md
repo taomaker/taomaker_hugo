@@ -1,5 +1,5 @@
 ---
-title: "Minimal_tools"
+title: "极简工具集-从实物到软件"
 date: 2017-10-24T12:34:58-04:00
 draft: false
 ---
