@@ -4,3 +4,7 @@
 [submodule "themes/hugo-xmin"]
 	path = themes/hugo-xmin
 	url = https://github.com/yihui/hugo-xmin.git
+[submodule "public"]
+	path = public
+	url = https://github.com/taomaker/taomaker.github.io.git
+	branch = master
