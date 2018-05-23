@@ -2,8 +2,9 @@ baseURL = "http://www.taomaker.com/"
 languageCode = "en-us"
 title = "Taomaker"
 theme = "hugo-xmin"
+hasCJKLanguage = true
 
-[permakinks]
+[permalinks]
   posts = "posts/:year/:slug/"
   notes = "notes/:slug/"
 
