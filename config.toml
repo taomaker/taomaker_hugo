@@ -2,3 +2,12 @@ baseURL = "http://www.taomaker.com/"
 languageCode = "en-us"
 title = "Taomaker"
 theme = "hugo-xmin"
+
+[permakinks]
+  posts = "posts/:year/:slug/"
+  notes = "notes/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
