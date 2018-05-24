@@ -1,5 +1,5 @@
 ---
-title: "Readings_2017"
+title: "My 2017 reading list"
 date: 2017-01-01T13:17:55-04:00
 draft: false
 ---
