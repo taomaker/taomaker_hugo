@@ -3,7 +3,7 @@ title: "Zeiss Ikon Color_Pantar 45mm f/2.8 from Contessamat SE"
 date: 2016-10-16T10:21:35-04:00
 draft: false
 ---
-[Color-Pantar_45mm_f2.8](/img/contessamat_se_color-pantar.jpg)
+![Color-Pantar_45mm_f2.8](/img/contessamat_se_color-pantar.jpg)
 
 This lens is from Zeiss Ikon Contessamat SE.
 
